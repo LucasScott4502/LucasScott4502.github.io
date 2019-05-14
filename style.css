@@ -1,0 +1,40 @@
+.header{
+ 
+}
+body {
+  background: #404040;  
+}
+h1 {
+  text-align: center;
+  font-family: Raleway; 
+  font-size: 125px;
+  color: #d9d9d9;
+  background-color: #1a1a1a;
+  box-sizing: border-box;
+  border: 20px solid  #1a1a1a;
+}
+p1{
+  font-family: Raleway; 
+  font-size: 100px;
+  color: #d9d9d9; 
+  
+}
+p2{
+  font-family: Raleway; 
+  font-size: 100px;
+  color: #d9d9d9;
+  
+}
+p3{
+  font-family: Raleway; 
+  font-size: 100px;
+  color: #d9d9d9;
+  
+}
+
+.products{
+  margin: 0 0 1300px;
+  text-align: right;
+  height: 200px;
+  width:50px;
+}
